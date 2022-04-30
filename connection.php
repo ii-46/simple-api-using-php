@@ -1,5 +1,5 @@
 <?php
-// use to hide defualt massage error for pho
+// use to hide defualt massage error from php
 // error_reporting(0);
 
 $server_name = "139.394.249";
